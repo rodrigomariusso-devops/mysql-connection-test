@@ -36,7 +36,7 @@ O script se conectará ao banco de dados MySQL e executará a query `SELECT * FR
 
 ## Estrutura do Projeto
 ```
-MySQL-Connection-Tester/
+mysql-connection-test/
 │── app.py               # Script Python que testa a conexão com o MySQL e executa uma query
 ```
 
